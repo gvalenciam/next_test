@@ -2,12 +2,13 @@
 
 - npx create-next-app ${app_name}
 
-# Run server (inside project folder)
+# Run server
 
-- npm run dev
+- Inside project folder run the command: **npm run dev**
 
-# Create new route (https://www.mywebpage.com/new-route)
+# Create new route
 
+- Creates URLs based on files **https://www.mywebpage.com/new-route**
 - Add js file inside pages folder (pages/new-route.js)
 - Works for nested routes (pages/new-route-group/new-route.js)
 
